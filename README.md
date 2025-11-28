@@ -379,3 +379,4 @@
 # OpenCV System Log: 2025-11-17 - Update 376
 # OpenCV System Log: 2025-11-24 - Update 390
 # OpenCV System Log: 2025-11-26 - Update 396
+# OpenCV System Log: 2025-11-28 - Update 401
