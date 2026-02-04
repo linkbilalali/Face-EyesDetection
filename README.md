@@ -25,6 +25,3 @@ Exit Command: Press the 'a' key to stop the video stream and close the window.
 
 ### How it Functions
 The application processes video data by converting frames into grayscale to simplify the mathematical analysis. It then isolates the "Region of Interest" (the face) to search for smaller details like eyes and smiles, which makes the detection more efficient.
-
-### Pro-Tip for your Script
-In your current code, you have a small typo: cv2.destroyAllWindows is missing the parentheses (). It should be cv2.destroyAllWindows() to properly close the window when you quit.
